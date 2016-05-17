@@ -1,0 +1,4 @@
+nombre: Wilmar Mojica
+cedula : 8-798-1384
+universidad interamericana de Panamá
+curso programacion 3 
